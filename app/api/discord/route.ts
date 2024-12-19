@@ -12,7 +12,7 @@ export const POST = async () => {
         fields: [
             {
                 name: "Go to dashboard",
-                value: "examplegmail.com"
+                value: "https://sync-care.vercel.app/admin"
             }
         ]
     })
