@@ -169,6 +169,7 @@ const AppointmentForm = ({ type, patientId, userId, appointment, setOpen }: Appo
               name="schedule"
               label="Expected appointment date"
               showTimeSelect
+              placeholder="Select date and time"
               dateFormat="dd/MM/yyyy - hh:mm aa"
             />
 
