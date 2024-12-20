@@ -133,6 +133,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                             control={form.control}
                             name="birthDate"
                             label="Date of birth"
+                            placeholder="Select date of birth"
                             dateFormat="dd/MM/yyyy"
                             />
 
