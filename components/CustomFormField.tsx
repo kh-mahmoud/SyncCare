@@ -97,7 +97,7 @@ const RenderField = ({ field, props }: { field: any, props: CustomFieldProps }) 
                             selected={field.value}
                             onChange={(date) => field.onChange(date)}
                             dateFormat={props.dateFormat}
-                            placeholderText="Select your birth date"
+                            placeholderText={props.placeholder}
                             isClearable
                             showTimeSelect={props?.showTimeSelect && true}
                             timeInputLabel="Time:"
