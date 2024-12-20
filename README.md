@@ -8,8 +8,7 @@ Welcome to healthcare, reimagined.
 
 ![wallpaper](https://github.com/user-attachments/assets/78226165-57f5-4bd4-a79c-e2fe3dc24ae7)
 
-
-![wallpaper2](https://github.com/user-attachments/assets/3de0860b-69cb-43c6-afaa-728606b06510)
+![wallpaper2](https://github.com/user-attachments/assets/c15cc9d2-49ce-4fe1-90e2-802db3692a20)
 
 # Key Features 🚀
 
