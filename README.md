@@ -21,16 +21,13 @@ Our advanced AI analyzes patient medical records to provide health scores 📊, 
 # Real-Time Notifications 🔔
 Stay connected with instant updates! Admins receive real-time alerts about new appointments via a linked Discord bot. With SyncCare, you’re always in the loop, ensuring nothing slips through the cracks.
 
-# Transparent SMS Updates 📱
-Patients are never left guessing. Whether an appointment is scheduled or canceled, SyncCare sends real-time SMS updates, keeping patients informed and reducing uncertainty every step of the way.
-
 # Appointments Management 📊
 The admin dashboard is designed for maximum efficiency and powerfull filtering system, managing appointments has never been this seamless. SyncCare ensures that every detail is organized and accessible.
 
 With every feature crafted for simplicity, speed, and compassion, we’re transforming the way you experience healthcare. From seamless appointments 🗓️ to AI-powered care 🤖, SyncCare keeps you informed and connected every step of the way. Whether you’re a patient or an admin, syncCare ensures that your healthcare journey is as efficient and stress-free as possible. 
 Experience a new era in healthcare with SyncCare – where technology supports care, every step of the way. 🌟
 
- join us today and take the first step towards smarter, more efficient healthcare management : https://sync-care.vercel.app 🚀
+ join us today and take the first step towards smarter, more efficient healthcare management
 
 
 
