@@ -29,5 +29,14 @@ Experience a new era in healthcare with SyncCare – where technology supports c
 
  join us today and take the first step towards smarter, more efficient healthcare management
 
+ ---
+
+<div align="center">
+
+**🚀 Built with AI? Learn how**  
+[Start coding on Scrimba](https://scrimba.com/?via=u4f3b28) ·
+
+</div>
+
 
 
